@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_WALLETCONNECT_PROJECT_ID": "6eed8f1164c62a0bfd563366fd4bd12f",
   "VITE_APP_NAME": "Giggle Dex",
   "VITE_APP_DESCRIPTION": "A powerful decentralized exchange aiming to contribute to giggleacademy",
-  "VITE_HAS_PRIMARY_LOGO": "false",
+  "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Markets,Trading,Portfolio,Rewards,Leaderboard",
   "VITE_CUSTOM_MENUS": "",
